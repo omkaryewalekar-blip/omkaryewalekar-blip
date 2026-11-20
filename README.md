@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=omkaryewalekar-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="omkaryewalekar-blip hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=OmkarYewalekar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="OmkarYewalekar hero visual" />
 </p>
 
 <p align="center"><b>OmkarYewalekar</b> · Product-minded developer<br/><sub>Aspiring AI Engineer | Exploring AI, ML &amp; Deep Learning | Building innovative projects and learning by doing. 🚀</sub></p>
 
-<p align="center"><a href="https://github.com/omkaryewalekar-blip">GitHub</a></p>
+<p align="center"><a href="https://github.com/OmkarYewalekar">GitHub</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=omkaryewalekar-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="omkaryewalekar-blip projects visual" />
+  <img src="https://www.gitskins.com/api/section/projects?username=OmkarYewalekar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="OmkarYewalekarprojects visual" />
 </p>
 
 </details>
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=omkaryewalekar-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="omkaryewalekar-blip stack visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=OmkarYewalekar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="OmkarYewalekar stack visual" />
 </p>
 
 </details>
@@ -33,7 +33,7 @@
 <b>0</b> public repositories, <b>0</b> stars, <b>1</b> contributions in the last year, a longest streak of <b>1</b> days and <b>1</b> followers.
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=omkaryewalekar-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="omkaryewalekar-blip stats visual" />
+  <img src="https://www.gitskins.com/api/section/stats?username=OmkarYewalekar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="OmkarYewalekar stats visual" />
 </p>
 
 </details>
@@ -43,7 +43,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=omkaryewalekar-blip&theme=neon" alt="omkaryewalekar-blip contribution activity" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=OmkarYewalekar&theme=neon" alt="omkaryewalekar-blip contribution activity" />
 </p>
 
 </details>
@@ -53,7 +53,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=omkaryewalekar-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="omkaryewalekar-blip social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=OmkarYewalekar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292455696%3Fv%3D4" alt="OmkarYewalekar social visual" />
 </p>
 
 </details>
